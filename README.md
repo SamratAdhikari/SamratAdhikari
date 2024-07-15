@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Endangered Bird mapping by audio classification.<br>👯 I’m looking to collaborate on Machine Learning projects.<br>🤝 I’m seeking help with deciphering text from the Indus Valley Civilization.<br>🌱 I’m currently learning the intricacies of Game Theory and Cellular Automata.<br>💬 Let's talk NLP and Data Science - feel free to ask me anything!<br>⚡ Fun fact: The term 'Big Bang' was coined by someone who didn't even believe in it.
+🔭 I’m currently working on Endangered Bird species mapping by audio classification.<br>👯 I’m looking to collaborate on Machine Learning projects.<br>🤝 I’m seeking help with deciphering text from the Indus Valley Civilization.<br>🌱 I’m currently learning the intricacies of Game Theory and Cellular Automata.<br>💬 Let's talk NLP and Data Science - feel free to ask me anything!<br>⚡ Fun fact: The term 'Big Bang' was coined by someone who didn't even believe in it.
 
 
 ## 🌐 Socials:
